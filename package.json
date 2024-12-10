@@ -22,5 +22,8 @@
         "allure-codeceptjs": "^3.0.6",
         "codeceptjs": "^3.6.7",
         "playwright": "^1.49.0"
+    },
+    "dependencies": {
+        "desafio-5": "file:"
     }
 }
